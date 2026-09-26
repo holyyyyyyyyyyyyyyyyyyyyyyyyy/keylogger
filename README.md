@@ -57,7 +57,7 @@ pip3 install pynput
 
 ### Windows
 ```bash
-git clone https://github.com/holyyyyyyyyyyyyyyyyyyyyyyyyy/keylogger/edit/main/windos.py
+git clone https://github.com/holyyyyyyyyyyyyyyyyyyyyyyyyy/keylogger/edit/main/windows.py
 ```
 ```powershell
 python windows.py
