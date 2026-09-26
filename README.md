@@ -74,6 +74,13 @@ py windows.py
 
 ### Linux (X11 only)
 ```bash
+sudo apt update
+sudo apt install python3-venv
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install pynput
+```
+```bash
 git clone https://github.com/holyyyyyyyyyyyyyyyyyyyyyyyyy/keylogger
 ```
 ```bash
