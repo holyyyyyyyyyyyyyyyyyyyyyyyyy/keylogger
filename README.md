@@ -71,7 +71,7 @@ py windows.py
 
 ### Linux (X11 only)
 ```bash
-https://github.com/holyyyyyyyyyyyyyyyyyyyyyyyyy/keylogger/edit/main/linux.py
+git clone https://github.com/holyyyyyyyyyyyyyyyyyyyyyyyyy/keylogger/edit/main/linux.py
 ```
 ```bash
 python3 linux.py
